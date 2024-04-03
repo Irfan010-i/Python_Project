@@ -1,0 +1,1 @@
+A Colour Picker game using Pyhton Tkinter, where you will be given texts(color names) of different colors. So you have to select the color name from the given options based on the color of the text. The player will have a limited amount of time, on each successfull color selection the score increases by 1. High scores can also be maintained 
